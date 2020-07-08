@@ -1,8 +1,6 @@
-
-# Tizen SES
 intranet access only
 
-- Docs : https://docs.tizenses.com
-- PMB : https://pmb.tizenses.com
-- Confluence : https://space.tizenses.com
-- Testhub : https://testhub.tizenses.com
+- Docs : http://docs.tizenses.com
+- PMB : http://pmb.tizenses.com
+- Confluence : http://space.tizenses.com
+- Testhub : http://testhub.tizenses.com
