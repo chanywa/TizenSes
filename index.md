@@ -1,6 +1,6 @@
 intranet access only
 
-- Docs : [http://docs.tizenses.com](http://docs.tizenses.com)
-- PMB : [http://pmb.tizenses.com](http://pmb.tizenses.com)
-- Confluence : [http://space.tizenses.com](http://space.tizenses.com)
-- Testhub : [http://testhub.tizenses.com](http://testhub.tizenses.com)
+- Docs : <a href=http://docs.tizenses.com>http://docs.tizenses.com</a>
+- PMB : <a href=http://pmb.tizenses.com>http://pmb.tizenses.com</a>
+- Confluence : <a href=http://space.tizenses.com>http://space.tizenses.com</a>
+- Testhub : <a href=http://testhub.tizenses.com>http://testhub.tizenses.com</a>
